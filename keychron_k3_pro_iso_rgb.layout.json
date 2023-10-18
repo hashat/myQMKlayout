@@ -7,9 +7,9 @@
       "KC_ESC",
       "KC_BRID",
       "KC_BRIU",
-      "CUSTOM(4)",
-      "CUSTOM(5)",
-      "RGB_VAD",
+      "CUSTOM(4)", MacOS::Mission Control, same as Windows+Tab
+      "CUSTOM(5)", MacOS::Launch pad, all applications, same as Drawer in Android
+      "RGB_VAD", 
       "RGB_VAI",
       "KC_MPRV",
       "KC_MPLY",
@@ -17,8 +17,8 @@
       "KC_MUTE",
       "KC_VOLD",
       "KC_VOLU",
-      "CUSTOM(8)",
-      "KC_DEL",
+      "CUSTOM(8)", MacOS:Screenshot
+      "KC_DEL",    Delete
       "RGB_MOD",
       "KC_GRV",
       "KC_1",
@@ -85,8 +85,8 @@
       "KC_UP",
       "KC_END",
       "KC_LCTL",
-      "CUSTOM(0)",
-      "CUSTOM(2)",
+      "CUSTOM(0)", MacOS::Left Option
+      "CUSTOM(2)", MacOS::Left Cmd
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -94,8 +94,8 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "CUSTOM(3)",
-      "MO(1)",
+      "CUSTOM(3)", MacOS::Right Cmd
+      "MO(1)",     FN
       "KC_RCTL",
       "KC_LEFT",
       "KC_DOWN",
@@ -119,9 +119,9 @@
       "KC_TRNS",
       "RGB_TOG",
       "KC_TRNS",
-      "CUSTOM(11)",
-      "CUSTOM(12)",
-      "CUSTOM(13)",
+      "CUSTOM(11)",Bluetooth::1
+      "CUSTOM(12)",Bluetooth::2
+      "CUSTOM(13)",Bluetooth::3
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -172,7 +172,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "CUSTOM(14)",
+      "CUSTOM(14)",??::Show Battery Level
       "MAGIC_TOGGLE_NKRO",
       "KC_TRNS",
       "KC_TRNS",
@@ -213,8 +213,8 @@
       "KC_F10",
       "KC_F11",
       "KC_F12",
-      "KC_PSCR",
-      "KC_DEL",
+      "KC_PSCR",Windows::PrintScreen
+      "KC_DEL", Delete
       "RGB_MOD",
       "KC_GRV",
       "KC_1",
@@ -301,8 +301,8 @@
       "KC_TRNS",
       "KC_BRID",
       "KC_BRIU",
-      "CUSTOM(6)",
-      "CUSTOM(7)",
+      "CUSTOM(6)", Windows::Task View
+      "CUSTOM(7)", Windows::File Explorer
       "RGB_VAD",
       "RGB_VAI",
       "KC_MPRV",
@@ -315,9 +315,9 @@
       "KC_TRNS",
       "RGB_TOG",
       "KC_TRNS",
-      "CUSTOM(11)",
-      "CUSTOM(12)",
-      "CUSTOM(13)",
+      "CUSTOM(11)",Bluetooth::1
+      "CUSTOM(12)",Bluetooth::2
+      "CUSTOM(13)",Bluetooth::3
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -368,7 +368,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "CUSTOM(14)",
+      "CUSTOM(14)",??::Show Battery Level
       "MAGIC_TOGGLE_NKRO",
       "KC_TRNS",
       "KC_TRNS",

@@ -1,8 +1,10 @@
-# What's this
+# myQMKlayout
 
-This is just me keeping track of my experiments with my keyboard(s in the future?) with QMK firmware
+## What's this
 
-## What' it for
+This is just me keeping track of my experiments with my keyboard(s in the future?) with QMK firmware.
+
+## What's it for
 
 Currently it is only for [Keychron K3 Pro ISO layout](https://www.keychron.com/collections/keychron-iso-jis-keyboard-collection/products/keychron-k3-pro-qmk-via-wireless-mechanical-keyboard-iso-layout-collection) keyboard.
 
@@ -13,5 +15,6 @@ Currently it is only for [Keychron K3 Pro ISO layout](https://www.keychron.com/c
 
 ## LICENSE
 
-QMK itself seems to be under the GPLv2
+QMK itself seems to be under the GPLv2.
+
 This means I'm also releasing everything under the same.
