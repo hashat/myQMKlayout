@@ -8,6 +8,8 @@ This is just me keeping track of my experiments with my keyboard(s in the future
 
 Currently it is only for [Keychron K3 Pro ISO layout](https://www.keychron.com/collections/keychron-iso-jis-keyboard-collection/products/keychron-k3-pro-qmk-via-wireless-mechanical-keyboard-iso-layout-collection) keyboard.
 
+The 'official' QMK software seems to be [here](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k3_pro)
+
 ## Credits
 
 * Hardware: [Keychron](https://www.keychron.com/)
