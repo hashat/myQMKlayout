@@ -319,7 +319,7 @@
       "KC_BRID",
       "KC_BRIU",
       "CUSTOM(6)",
-      "LWIN(KC_PAUS)",
+      "G(KC_PAUS)",
       "RGB_VAD",
       "RGB_VAI",
       "KC_MPRV",
